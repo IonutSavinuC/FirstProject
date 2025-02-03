@@ -2,3 +2,4 @@ cinema cinema
 cinema 2
 cinema 3
 cinema 4
+autocinema
